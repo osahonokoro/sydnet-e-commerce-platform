@@ -1,4 +1,4 @@
-Sydnet
+
 Sydnet is a cutting-edge AI-powered platform designed to revolutionize how individuals and businesses interact with intelligent systems. Whether you're building smart assistants, automating workflows, or exploring new frontiers in machine learning, Sydnet provides the tools, APIs, and infrastructure to make it happen.
 
 🚀 Features
